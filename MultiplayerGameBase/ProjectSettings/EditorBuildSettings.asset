@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
-    guid: 99767cb7e22da344aacb1b69c2929a8a
+    path: Assets/PUN2_Matchmaking/CodeMatchmaking/Scenes/CodeMatchmakingMenuDemo.unity
+    guid: 74dc7948f0f14d64aaeb1459aa72064d
   m_configObjects: {}
